@@ -68,7 +68,7 @@ Stock_Market_Analytics_Project/
 ├── README.md                     # This file
 ├── requirements.txt              # All dependencies
 ├── insights.md                   # Deep business insights
-└── interview_prep.md            # 40 interview Q&A pairs
+
 ```
 
 ---
@@ -134,37 +134,11 @@ Stock_Market_Analytics_Project/
 
 ---
 
-## 🤖 ML Model
-
-**Task:** Binary classification — predict if AAPL will close **Up or Down** tomorrow
-
-**Algorithm:** Random Forest Classifier (200 trees, max_depth=6)
-
-**Features (15):**
-- Lagged returns (1d, 2d, 5d, 10d)
-- Moving average signals (MA20, MA50, Golden Cross)
-- RSI (14-period)
-- Price momentum (5d, 20d)
-- Volume signals
-- Volatility regime
-
-**Results:**
-
-| Model | Accuracy | AUC-ROC |
-|---|---|---|
-| Logistic Regression | 51.7% | 0.480 |
-| Random Forest | 49.0% | 0.473 |
-| Gradient Boosting | 51.0% | 0.536 |
-
-> **Interview Note:** ~50% accuracy on financial markets is expected and honest. Markets are near-efficient. The value of this model is not the accuracy alone — it's the framework, the feature engineering process, and the disciplined evaluation methodology (no data leakage, time-series split).
-
----
-
 ## 🚀 How to Run
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Stock_Market_Analytics.git
+git clone https://github.com/ritish-reddy/Stock_Market_Analytics.git
 cd Stock_Market_Analytics
 
 # 2. Install dependencies
@@ -207,10 +181,10 @@ All outputs (charts + reports) are saved to the `outputs/` folder.
 
 ## 👤 Author
 
-**[Your Name]**
+**[Ritish Reddy]**
 Data Analyst | Python | Financial Analytics  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 v.ritish85@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/ritishreddy04) | [GitHub](https://github.com/ritish-reddy)
 
 ---
 
