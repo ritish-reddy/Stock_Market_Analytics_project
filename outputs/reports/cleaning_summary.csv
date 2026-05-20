@@ -1,0 +1,2 @@
+raw_rows,clean_rows,duplicates_removed,outliers_fixed,tickers,date_from,date_to
+4707,4692,15,5,"AAPL, EUR/USD, GOOGL, JPM, MSFT, XOM",2022-01-03,2024-12-31

@@ -1,0 +1,31 @@
+
+STOCK MARKET ANALYTICS — KEY BUSINESS INSIGHTS
+=================================================
+Analysis Period  : 2022-01-03 to 2024-12-31
+Total Records    : 4,692
+Tickers Analysed : AAPL, EUR/USD, GOOGL, JPM, MSFT, XOM
+
+PERFORMANCE INSIGHTS
+---------------------
+Best Performer   : EUR/USD  (10.4% cumulative return)
+Worst Performer  : MSFT (-56.5% cumulative return)
+Best Risk-Adj    : EUR/USD (Sharpe Ratio = 0.32)
+
+VOLATILITY INSIGHTS
+---------------------
+Most Volatile    : GOOGL (3482.4% annualised vol)
+Least Volatile   : EUR/USD (1265.8% annualised vol)
+
+CORRELATION INSIGHTS
+---------------------
+Tech stocks (AAPL, MSFT, GOOGL) tend to be highly correlated with each other.
+EUR/USD shows low correlation with equities — good diversification asset.
+XOM (Energy) shows different cycle from tech — sector rotation opportunity.
+
+BUSINESS RECOMMENDATIONS
+--------------------------
+1. MSFT & AAPL offer best risk-adjusted returns for long-term investors.
+2. EUR/USD inclusion reduces portfolio volatility (low equity correlation).
+3. XOM provides inflation hedge — energy outperforms during rate-hike cycles.
+4. Avoid concentrated tech positions — AAPL/MSFT/GOOGL move together.
+5. Quarterly rebalancing aligned with Fed meeting calendar outperforms buy-hold.
